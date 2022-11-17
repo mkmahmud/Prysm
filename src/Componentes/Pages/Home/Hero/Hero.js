@@ -1,6 +1,7 @@
 import React from 'react';
 import pyB from '../../../../Assets/py-b.png'
-import heroBanar from '../../../../Assets/herobanar.png'
+import heroBanar from '../../../../Assets/Banners Illustrations.png'
+
 
 const Hero = () => {
     return (

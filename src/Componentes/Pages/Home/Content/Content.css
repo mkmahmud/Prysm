@@ -1,0 +1,9 @@
+.singel-card{
+    background: rgba(238, 232, 225, 0.2);
+}
+
+.left-image{
+    position: absolute;
+    top: 60px;
+    left: 0;
+}
